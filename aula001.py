@@ -1,4 +1,3 @@
-''' Usar para escrever suas notas   ddd'''
 ''' Usar para escrever suas notas jdjdjdjdjk  xxx conflito com a main aqui é a B'''
 
 # Permite escrever um comentário na b_teste
