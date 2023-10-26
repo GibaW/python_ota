@@ -1,4 +1,4 @@
-''' Usar para escrever suas notas jdjdjdjdjk  xxx conflito merrrrmo'''
+''' Usar para escrever suas notas jdjdjdjdjk  xxx conflito com a main aqui é a B'''
 
 # Permite escrever um comentário 
 #aqui mudado na branch main
