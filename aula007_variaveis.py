@@ -7,13 +7,10 @@
 
 # nome_completo = 'Luiz Otávio Miranda'
 # soma_dois_mais_dois = 2 + 2
-<<<<<<< HEAD
 # int_um = bool('1')
 # print(int_um, type(int_um)) sxxx
-=======
 # int_um = bool('1')  
 # print(int_um, type(int_um))
->>>>>>> 1f3da9a6e8a4d84895d2fb195c507fb2f7b55797
 # print(nome_completo, soma_dois_mais_dois) ...
 
 nome = 'Luiz'
